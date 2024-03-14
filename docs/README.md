@@ -7,7 +7,7 @@ Lucas Emanuel Santos Siqueira
 * C#
 * JavaScript
 * Python
-* ...
+* Bootstrap
 ---
 > Metodologias de Desenvolvimento de Software @ 2020
 
