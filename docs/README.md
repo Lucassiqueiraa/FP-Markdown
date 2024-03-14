@@ -4,6 +4,7 @@ Lucas Emanuel Santos Siqueira
 `2231435`
 ## Linguagens de programação conhecidas:
 * C
+* C#
 * JavaScript
 * Python
 * ...
