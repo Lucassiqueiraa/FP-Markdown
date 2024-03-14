@@ -10,6 +10,6 @@ Lucas Emanuel Santos Siqueira
 ---
 > Metodologias de Desenvolvimento de Software @ 2020
 
-![Image](https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Log%C3%B3tipo_Polit%C3%A9cnico_Leiria_01.png" width="500" height="200" alt="Logo IPL">
 
-Figura 3 - Ficheiro readme.md
+
